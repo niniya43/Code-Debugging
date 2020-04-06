@@ -44,7 +44,6 @@ Sample output-1
 251
 Sample input-2
 534
-Sample output-2
-
 a
+Sample output-2
 216
